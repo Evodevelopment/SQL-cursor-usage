@@ -14,3 +14,5 @@ To work with cursors you must use the following SQL statements:
 -  OPEN
 -  FETCH
 -  CLOSE
+
+Source: https://www.ibm.com/docs/en/ias?topic=procedures-cursors
