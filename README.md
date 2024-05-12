@@ -1,6 +1,6 @@
 # SQL-cursor-usage
 
-## What is the purpose of this exercise\?
+## What is the purpose of this exercise?
 
 ### And...
 
